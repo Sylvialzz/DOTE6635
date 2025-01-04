@@ -1,2 +1,4 @@
 # DOTE6635
-Introduction to learn AI
+
+#Prepartion
+#Anaconda and VS code
